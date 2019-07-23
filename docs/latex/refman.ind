@@ -1,0 +1,203 @@
+\begin{theindex}
+
+  \item {/home/fatine/\+Documents/se-\/03-\/team-\/06/src/debug.\+h}, 
+		\hyperpage{25}
+  \item {/home/fatine/\+Documents/se-\/03-\/team-\/06/src/intelligence.\+h}, 
+		\hyperpage{25}
+  \item {/home/fatine/\+Documents/se-\/03-\/team-\/06/src/mainwindow.\+h}, 
+		\hyperpage{25}
+  \item {/home/fatine/\+Documents/se-\/03-\/team-\/06/src/pencil.\+h}, 
+		\hyperpage{26}
+  \item {/home/fatine/\+Documents/se-\/03-\/team-\/06/src/production.\+h}, 
+		\hyperpage{26}
+  \item {/home/fatine/\+Documents/se-\/03-\/team-\/06/src/wallet.\+h}, 
+		\hyperpage{27}
+  \item {$\sim$\+Main\+Window}
+    \subitem {Main\+Window}, \hyperpage{14}
+
+  \indexspace
+
+  \item {activate\+Intelligence}
+    \subitem {Pencil}, \hyperpage{16}
+  \item {apm2000}
+    \subitem {Pencil}, \hyperpage{16}
+  \item {apm\+Fractional}
+    \subitem {Pencil}, \hyperpage{18}
+  \item {apm\+Upgrade\+Price}
+    \subitem {Pencil}, \hyperpage{18}
+
+  \indexspace
+
+  \item {balance}
+    \subitem {Wallet}, \hyperpage{23}
+  \item {buy\+Apm}
+    \subitem {Pencil}, \hyperpage{16}
+  \item {buy\+Graphite}
+    \subitem {Production}, \hyperpage{20}
+  \item {buy\+Wood}
+    \subitem {Production}, \hyperpage{20}
+
+  \indexspace
+
+  \item {calculate\+Prices}
+    \subitem {Production}, \hyperpage{21}
+
+  \indexspace
+
+  \item {Debug}, \hyperpage{11}
+    \subitem {Debug}, \hyperpage{11}
+    \subitem {speed\+Up}, \hyperpage{12}
+  \item {decrease\+Graphite}
+    \subitem {Production}, \hyperpage{21}
+  \item {decrease\+Price}
+    \subitem {Pencil}, \hyperpage{16}
+  \item {decrease\+Wood}
+    \subitem {Production}, \hyperpage{21}
+  \item {disable\+\_\+buy\+Graphite}
+    \subitem {Production}, \hyperpage{21}
+  \item {disable\+\_\+buy\+Wood}
+    \subitem {Production}, \hyperpage{21}
+
+  \indexspace
+
+  \item {get\+Balance}
+    \subitem {Wallet}, \hyperpage{23}
+  \item {get\+Graphite}
+    \subitem {Production}, \hyperpage{21}
+  \item {get\+Inventory}
+    \subitem {Pencil}, \hyperpage{16}
+  \item {get\+Wood}
+    \subitem {Production}, \hyperpage{21}
+
+  \indexspace
+
+  \item {increase\+Intelligence}
+    \subitem {Intelligence}, \hyperpage{13}
+  \item {increase\+Price}
+    \subitem {Pencil}, \hyperpage{16}
+  \item {Intelligence}, \hyperpage{12}
+    \subitem {increase\+Intelligence}, \hyperpage{13}
+    \subitem {Intelligence}, \hyperpage{12}
+    \subitem {intelligence\+Balance}, \hyperpage{13}
+  \item {intelligence\+Balance}
+    \subitem {Intelligence}, \hyperpage{13}
+
+  \indexspace
+
+  \item {Main\+Window}, \hyperpage{13}
+    \subitem {$\sim$\+Main\+Window}, \hyperpage{14}
+    \subitem {Main\+Window}, \hyperpage{14}
+  \item {marketing}
+    \subitem {Pencil}, \hyperpage{18}
+  \item {marketing\+Upgrade\+Price}
+    \subitem {Pencil}, \hyperpage{18}
+
+  \indexspace
+
+  \item {new\+Rate}
+    \subitem {Pencil}, \hyperpage{17}
+  \item {numberof\+Apm}
+    \subitem {Pencil}, \hyperpage{18}
+  \item {numberof\+Graphite}
+    \subitem {Production}, \hyperpage{22}
+  \item {numberof\+Pencil}
+    \subitem {Pencil}, \hyperpage{18}
+  \item {numberof\+Wood}
+    \subitem {Production}, \hyperpage{22}
+
+  \indexspace
+
+  \item {Pencil}, \hyperpage{15}
+    \subitem {activate\+Intelligence}, \hyperpage{16}
+    \subitem {apm2000}, \hyperpage{16}
+    \subitem {apm\+Fractional}, \hyperpage{18}
+    \subitem {apm\+Upgrade\+Price}, \hyperpage{18}
+    \subitem {buy\+Apm}, \hyperpage{16}
+    \subitem {decrease\+Price}, \hyperpage{16}
+    \subitem {get\+Inventory}, \hyperpage{16}
+    \subitem {increase\+Price}, \hyperpage{16}
+    \subitem {marketing}, \hyperpage{18}
+    \subitem {marketing\+Upgrade\+Price}, \hyperpage{18}
+    \subitem {new\+Rate}, \hyperpage{17}
+    \subitem {numberof\+Apm}, \hyperpage{18}
+    \subitem {numberof\+Pencil}, \hyperpage{18}
+    \subitem {Pencil}, \hyperpage{15}
+    \subitem {pencils\+For\+Upgrade}, \hyperpage{18}
+    \subitem {priceof\+Apm}, \hyperpage{18}
+    \subitem {priceof\+Pencil}, \hyperpage{19}
+    \subitem {produce\+Pencil}, \hyperpage{17}
+    \subitem {rateof\+Apm}, \hyperpage{19}
+    \subitem {rateof\+Pencil}, \hyperpage{19}
+    \subitem {round}, \hyperpage{17}
+    \subitem {sell}, \hyperpage{17}
+    \subitem {totalnumberof\+Pencil}, \hyperpage{19}
+    \subitem {upgrade\+Apm}, \hyperpage{17}
+    \subitem {upgrade\+Marketing}, \hyperpage{17}
+  \item {pencils\+For\+Upgrade}
+    \subitem {Pencil}, \hyperpage{18}
+  \item {priceof\+Apm}
+    \subitem {Pencil}, \hyperpage{18}
+  \item {priceof\+Graphite}
+    \subitem {Production}, \hyperpage{22}
+  \item {priceof\+Pencil}
+    \subitem {Pencil}, \hyperpage{19}
+  \item {priceof\+Wood}
+    \subitem {Production}, \hyperpage{22}
+  \item {produce\+Pencil}
+    \subitem {Pencil}, \hyperpage{17}
+  \item {Production}, \hyperpage{19}
+    \subitem {buy\+Graphite}, \hyperpage{20}
+    \subitem {buy\+Wood}, \hyperpage{20}
+    \subitem {calculate\+Prices}, \hyperpage{21}
+    \subitem {decrease\+Graphite}, \hyperpage{21}
+    \subitem {decrease\+Wood}, \hyperpage{21}
+    \subitem {disable\+\_\+buy\+Graphite}, \hyperpage{21}
+    \subitem {disable\+\_\+buy\+Wood}, \hyperpage{21}
+    \subitem {get\+Graphite}, \hyperpage{21}
+    \subitem {get\+Wood}, \hyperpage{21}
+    \subitem {numberof\+Graphite}, \hyperpage{22}
+    \subitem {numberof\+Wood}, \hyperpage{22}
+    \subitem {priceof\+Graphite}, \hyperpage{22}
+    \subitem {priceof\+Wood}, \hyperpage{22}
+    \subitem {Production}, \hyperpage{20}
+
+  \indexspace
+
+  \item {rateof\+Apm}
+    \subitem {Pencil}, \hyperpage{19}
+  \item {rateof\+Pencil}
+    \subitem {Pencil}, \hyperpage{19}
+  \item {round}
+    \subitem {Pencil}, \hyperpage{17}
+
+  \indexspace
+
+  \item {sell}
+    \subitem {Pencil}, \hyperpage{17}
+  \item {set\+Balance}
+    \subitem {Wallet}, \hyperpage{23}
+  \item {speed\+Up}
+    \subitem {Debug}, \hyperpage{12}
+
+  \indexspace
+
+  \item {totalnumberof\+Pencil}
+    \subitem {Pencil}, \hyperpage{19}
+
+  \indexspace
+
+  \item {Ui}, \hyperpage{9}
+  \item {upgrade\+Apm}
+    \subitem {Pencil}, \hyperpage{17}
+  \item {upgrade\+Marketing}
+    \subitem {Pencil}, \hyperpage{17}
+
+  \indexspace
+
+  \item {Wallet}, \hyperpage{22}
+    \subitem {balance}, \hyperpage{23}
+    \subitem {get\+Balance}, \hyperpage{23}
+    \subitem {set\+Balance}, \hyperpage{23}
+    \subitem {Wallet}, \hyperpage{23}
+
+\end{theindex}
